@@ -2,172 +2,98 @@ Test Name: graph_3_edges.txt
 Result: Minimum edge coloring found.
 Number of colors: 3
 Number of iterations: 6
+Time taken (seconds): 0.0010042190551757812
 
 Test Name: graph_5_edges.txt
 Result: Minimum edge coloring found.
 Number of colors: 3
 Number of iterations: 181
+Time taken (seconds): 0.0010042190551757812
 
 Test Name: graph_5_edges_2.txt
 Result: Minimum edge coloring found.
 Number of colors: 3
 Number of iterations: 186
+Time taken (seconds): 0.0
 
 Test Name: graph_6_edges.txt
 Result: Minimum edge coloring found.
 Number of colors: 3
 Number of iterations: 1765
+Time taken (seconds): 0.02849292755126953
 
 Test Name: graph_7_edges.txt
 Result: Minimum edge coloring found.
 Number of colors: 4
 Number of iterations: 22054
+Time taken (seconds): 0.40540432929992676
 
 Test Name: graph_7_edges_2.txt
 Result: Minimum edge coloring found.
 Number of colors: 4
 Number of iterations: 22348
+Time taken (seconds): 0.5930564403533936
 
 Test Name: graph_7_edges_3.txt
 Result: Minimum edge coloring found.
 Number of colors: 3
 Number of iterations: 19895
+Time taken (seconds): 0.4296278953552246
 
 Test Name: graph_8_edges.txt
 Result: Minimum edge coloring found.
 Number of colors: 3
 Number of iterations: 327753
+Time taken (seconds): 6.826897382736206
 
 Test Name: graph_9_edges.txt
 Result: Minimum edge coloring found.
 Number of colors: 4
 Number of iterations: 5906371
+Time taken (seconds): 118.97568678855896
 
 Test Name: graph_9_edges_2.txt
 Result: Minimum edge coloring found.
 Number of colors: 3
 Number of iterations: 5432519
+Time taken (seconds): 114.22899317741394
 
 Test Name: graph_10_edges.txt
 Result: Time limit exceeded.
-
-Test Name: graph_3_edges.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 6
-
-Test Name: graph_5_edges.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 181
-
-Test Name: graph_5_edges_2.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 186
-
-Test Name: graph_6_edges.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 1765
-
-Test Name: graph_7_edges.txt
-Result: Minimum edge coloring found.
-Number of colors: 4
-Number of iterations: 22054
-
-Test Name: graph_7_edges_2.txt
-Result: Minimum edge coloring found.
-Number of colors: 4
-Number of iterations: 22348
-
-Test Name: graph_7_edges_3.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 19895
-
-Test Name: graph_8_edges.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 327753
-
-Test Name: graph_3_edges.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 6
-
-Test Name: graph_5_edges.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 181
-
-Test Name: graph_5_edges_2.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 186
-
-Test Name: graph_6_edges.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 1765
-
-Test Name: graph_7_edges.txt
-Result: Minimum edge coloring found.
-Number of colors: 4
-Number of iterations: 22054
-
-Test Name: graph_7_edges_2.txt
-Result: Minimum edge coloring found.
-Number of colors: 4
-Number of iterations: 22348
-
-Test Name: graph_7_edges_3.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 19895
-
-Test Name: graph_8_edges.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 327753
-
-Test Name: graph_9_edges.txt
-Result: Minimum edge coloring found.
-Number of colors: 4
-Number of iterations: 5906371
-
-Test Name: graph_9_edges_2.txt
-Result: Minimum edge coloring found.
-Number of colors: 3
-Number of iterations: 5432519
-
-Test Name: graph_10_edges.txt
-Result: Time limit exceeded.
+Time taken (seconds): 390.0002613067627
 
 Test Name: graph_10_edges_2.txt
 Result: Time limit exceeded.
+Time taken (seconds): 390.0002613067627
 
 Test Name: graph_10_edges_3.txt
 Result: Time limit exceeded.
+Time taken (seconds): 390.0002613067627
 
 Test Name: graph_11_edges.txt
 Result: Time limit exceeded.
+Time taken (seconds): 390.0002613067627
 
 Test Name: graph_11_edges_2s.txt
 Result: Time limit exceeded.
+Time taken (seconds): 390.0002613067627
 
 Test Name: graph_11_edges_3.txt
 Result: Time limit exceeded.
+Time taken (seconds): 390.0002613067627
 
 Test Name: graph_11_edges_4.txt
 Result: Time limit exceeded.
+Time taken (seconds): 390.0002613067627
 
 Test Name: graph_12_edges.txt
 Result: Time limit exceeded.
+Time taken (seconds): 390.0002613067627
 
 Test Name: graph_12_edges_2.txt
 Result: Time limit exceeded.
+Time taken (seconds): 390.0002613067627
 
 Test Name: graph_15_edges.txt
 Result: Time limit exceeded.
-
+Time taken (seconds): 390.0002613067627
