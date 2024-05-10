@@ -1,0 +1,60 @@
+Test Name: graph_101_edges.txt
+Result: Minimum edge coloring found.
+Number of colors: 68
+Number of iterations: 123
+Time taken (seconds): 14.411210775375366
+
+Test Name: graph_121_edges.txt
+Result: Minimum edge coloring found.
+Number of colors: 82
+Number of iterations: 270
+Time taken (seconds): 18.657172203063965
+
+Test Name: graph_140_edges.txt
+Result: Minimum edge coloring found.
+Number of colors: 93
+Number of iterations: 209
+Time taken (seconds): 18.770938396453857
+
+Test Name: graph_156_edges.txt
+Result: Minimum edge coloring found.
+Number of colors: 108
+Number of iterations: 267
+Time taken (seconds): 29.046111583709717
+
+Test Name: graph_165_edges.txt
+Result: Minimum edge coloring found.
+Number of colors: 109
+Number of iterations: 217
+Time taken (seconds): 27.60627007484436
+
+Test Name: graph_177_edges.txt
+Result: Minimum edge coloring found.
+Number of colors: 117
+Number of iterations: 326
+Time taken (seconds): 43.47444796562195
+
+Test Name: graph_204_edges.txt
+Result: Minimum edge coloring found.
+Number of colors: 148
+Number of iterations: 499
+Time taken (seconds): 62.86054015159607
+
+Test Name: graph_227_edges.txt
+Result: Minimum edge coloring found.
+Number of colors: 143
+Number of iterations: 299
+Time taken (seconds): 67.28877758979797
+
+Test Name: graph_273_edges.txt
+Result: Minimum edge coloring found.
+Number of colors: 184
+Number of iterations: 442
+Time taken (seconds): 110.76102352142334
+
+Test Name: graph_275_edges.txt
+Result: Minimum edge coloring found.
+Number of colors: 181
+Number of iterations: 447
+Time taken (seconds): 127.20720219612122
+

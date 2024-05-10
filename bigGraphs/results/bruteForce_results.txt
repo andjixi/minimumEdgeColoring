@@ -1,0 +1,80 @@
+Test Name: graph_101_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.002410888671875
+
+Test Name: graph_121_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.000293731689453
+
+Test Name: graph_140_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.004368305206299
+
+Test Name: graph_156_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.001060962677002
+
+Test Name: graph_165_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.000840425491333
+
+Test Name: graph_177_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.000576734542847
+
+Test Name: graph_204_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.0006186962127686
+
+Test Name: graph_227_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.0027759075164795
+
+Test Name: graph_273_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.0024802684783936
+
+Test Name: graph_275_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.003389358520508
+
+Test Name: graph_101_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.004951477050781
+
+Test Name: graph_121_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.001488447189331
+
+Test Name: graph_140_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.00085973739624
+
+Test Name: graph_156_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.0006232261657715
+
+Test Name: graph_165_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.006484508514404
+
+Test Name: graph_177_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.000475883483887
+
+Test Name: graph_204_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.0022361278533936
+
+Test Name: graph_227_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.001854419708252
+
+Test Name: graph_273_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.000296354293823
+
+Test Name: graph_275_edges.txt
+Result: Time limit exceeded.
+Time taken (seconds): 5.000492095947266
+
