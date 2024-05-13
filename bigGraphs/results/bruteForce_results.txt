@@ -1,80 +1,40 @@
 Test Name: graph_101_edges.txt
 Result: Time limit exceeded.
-Time taken (seconds): 5.002410888671875
+Time taken (seconds): 5.001976490020752
 
 Test Name: graph_121_edges.txt
 Result: Time limit exceeded.
-Time taken (seconds): 5.000293731689453
+Time taken (seconds): 5.006035089492798
 
 Test Name: graph_140_edges.txt
 Result: Time limit exceeded.
-Time taken (seconds): 5.004368305206299
+Time taken (seconds): 5.010162353515625
 
 Test Name: graph_156_edges.txt
 Result: Time limit exceeded.
-Time taken (seconds): 5.001060962677002
+Time taken (seconds): 5.009943723678589
 
 Test Name: graph_165_edges.txt
 Result: Time limit exceeded.
-Time taken (seconds): 5.000840425491333
+Time taken (seconds): 5.000903367996216
 
 Test Name: graph_177_edges.txt
 Result: Time limit exceeded.
-Time taken (seconds): 5.000576734542847
+Time taken (seconds): 5.000736951828003
 
 Test Name: graph_204_edges.txt
 Result: Time limit exceeded.
-Time taken (seconds): 5.0006186962127686
+Time taken (seconds): 5.000509977340698
 
 Test Name: graph_227_edges.txt
 Result: Time limit exceeded.
-Time taken (seconds): 5.0027759075164795
+Time taken (seconds): 5.000316143035889
 
 Test Name: graph_273_edges.txt
 Result: Time limit exceeded.
-Time taken (seconds): 5.0024802684783936
+Time taken (seconds): 5.000258684158325
 
 Test Name: graph_275_edges.txt
 Result: Time limit exceeded.
-Time taken (seconds): 5.003389358520508
-
-Test Name: graph_101_edges.txt
-Result: Time limit exceeded.
-Time taken (seconds): 5.004951477050781
-
-Test Name: graph_121_edges.txt
-Result: Time limit exceeded.
-Time taken (seconds): 5.001488447189331
-
-Test Name: graph_140_edges.txt
-Result: Time limit exceeded.
-Time taken (seconds): 5.00085973739624
-
-Test Name: graph_156_edges.txt
-Result: Time limit exceeded.
-Time taken (seconds): 5.0006232261657715
-
-Test Name: graph_165_edges.txt
-Result: Time limit exceeded.
-Time taken (seconds): 5.006484508514404
-
-Test Name: graph_177_edges.txt
-Result: Time limit exceeded.
-Time taken (seconds): 5.000475883483887
-
-Test Name: graph_204_edges.txt
-Result: Time limit exceeded.
-Time taken (seconds): 5.0022361278533936
-
-Test Name: graph_227_edges.txt
-Result: Time limit exceeded.
-Time taken (seconds): 5.001854419708252
-
-Test Name: graph_273_edges.txt
-Result: Time limit exceeded.
-Time taken (seconds): 5.000296354293823
-
-Test Name: graph_275_edges.txt
-Result: Time limit exceeded.
-Time taken (seconds): 5.000492095947266
+Time taken (seconds): 5.000690698623657
 
